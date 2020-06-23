@@ -1,0 +1,7 @@
+vivado*
+*.swp
+*.swo
+overlay/tutorial
+a.out
+*.mem
+*.vcd
